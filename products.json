@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Produk 1",
+    "price": 6000,
+    "stock": 11,
+    "category": "Fashion",
+    "rating": 3.5,
+    "image": "assets/img/produk2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Produk 2",
+    "price": 7000,
+    "stock": 12,
+    "category": "Makanan",
+    "rating": 4.0,
+    "image": "assets/img/produk3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Produk 3",
+    "price": 8000,
+    "stock": 13,
+    "category": "Kesehatan",
+    "rating": 3.0,
+    "image": "assets/img/produk4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Produk 4",
+    "price": 9000,
+    "stock": 14,
+    "category": "Aksesoris",
+    "rating": 3.5,
+    "image": "assets/img/produk5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Produk 5",
+    "price": 10000,
+    "stock": 10,
+    "category": "Rumah Tangga",
+    "rating": 4.0,
+    "image": "assets/img/produk6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Produk 6",
+    "price": 11000,
+    "stock": 11,
+    "category": "Elektronik",
+    "rating": 3.0,
+    "image": "assets/img/produk1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Produk 7",
+    "price": 12000,
+    "stock": 12,
+    "category": "Fashion",
+    "rating": 3.5,
+    "image": "assets/img/produk2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Produk 8",
+    "price": 13000,
+    "stock": 13,
+    "category": "Makanan",
+    "rating": 4.0,
+    "image": "assets/img/produk3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Produk 9",
+    "price": 14000,
+    "stock": 14,
+    "category": "Kesehatan",
+    "rating": 3.0,
+    "image": "assets/img/produk4.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Produk 10",
+    "price": 15000,
+    "stock": 10,
+    "category": "Aksesoris",
+    "rating": 3.5,
+    "image": "assets/img/produk5.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Produk 11",
+    "price": 16000,
+    "stock": 11,
+    "category": "Rumah Tangga",
+    "rating": 4.0,
+    "image": "assets/img/produk6.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Produk 12",
+    "price": 17000,
+    "stock": 12,
+    "category": "Elektronik",
+    "rating": 3.0,
+    "image": "assets/img/produk1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Produk 13",
+    "price": 18000,
+    "stock": 13,
+    "category": "Fashion",
+    "rating": 3.5,
+    "image": "assets/img/produk2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Produk 14",
+    "price": 19000,
+    "stock": 14,
+    "category": "Makanan",
+    "rating": 4.0,
+    "image": "assets/img/produk3.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Produk 15",
+    "price": 20000,
+    "stock": 10,
+    "category": "Kesehatan",
+    "rating": 3.0,
+    "image": "assets/img/produk4.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Produk 16",
+    "price": 21000,
+    "stock": 11,
+    "category": "Aksesoris",
+    "rating": 3.5,
+    "image": "assets/img/produk5.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Produk 17",
+    "price": 22000,
+    "stock": 12,
+    "category": "Rumah Tangga",
+    "rating": 4.0,
+    "image": "assets/img/produk6.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Produk 18",
+    "price": 23000,
+    "stock": 13,
+    "category": "Elektronik",
+    "rating": 3.0,
+    "image": "assets/img/produk1.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Produk 19",
+    "price": 24000,
+    "stock": 14,
+    "category": "Fashion",
+    "rating": 3.5,
+    "image": "assets/img/produk2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Produk 20",
+    "price": 25000,
+    "stock": 10,
+    "category": "Makanan",
+    "rating": 4.0,
+    "image": "assets/img/produk3.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Produk 21",
+    "price": 26000,
+    "stock": 11,
+    "category": "Kesehatan",
+    "rating": 3.0,
+    "image": "assets/img/produk4.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Produk 22",
+    "price": 27000,
+    "stock": 12,
+    "category": "Aksesoris",
+    "rating": 3.5,
+    "image": "assets/img/produk5.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Produk 23",
+    "price": 28000,
+    "stock": 13,
+    "category": "Rumah Tangga",
+    "rating": 4.0,
+    "image": "assets/img/produk6.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Produk 24",
+    "price": 29000,
+    "stock": 14,
+    "category": "Elektronik",
+    "rating": 3.0,
+    "image": "assets/img/produk1.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Produk 25",
+    "price": 30000,
+    "stock": 10,
+    "category": "Fashion",
+    "rating": 3.5,
+    "image": "assets/img/produk2.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Produk 26",
+    "price": 31000,
+    "stock": 11,
+    "category": "Makanan",
+    "rating": 4.0,
+    "image": "assets/img/produk3.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Produk 27",
+    "price": 32000,
+    "stock": 12,
+    "category": "Kesehatan",
+    "rating": 3.0,
+    "image": "assets/img/produk4.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Produk 28",
+    "price": 33000,
+    "stock": 13,
+    "category": "Aksesoris",
+    "rating": 3.5,
+    "image": "assets/img/produk5.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Produk 29",
+    "price": 34000,
+    "stock": 14,
+    "category": "Rumah Tangga",
+    "rating": 4.0,
+    "image": "assets/img/produk6.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Produk 30",
+    "price": 35000,
+    "stock": 10,
+    "category": "Elektronik",
+    "rating": 3.0,
+    "image": "assets/img/produk1.jpg"
+  }
+]
